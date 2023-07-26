@@ -22,4 +22,3 @@ const trainData = {
         ownerEmail: " sample@abc.edu",
         rollNo: "178"
     };
-
